@@ -79,6 +79,7 @@ if ($pdo) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="PHP">
 <title>Tareas PHP</title>
 <style>
 body{font-family:sans-serif;max-width:720px;margin:2rem auto;padding:0 1rem}
